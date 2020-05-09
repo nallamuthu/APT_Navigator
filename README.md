@@ -1,7 +1,8 @@
 # APT Navigator
 APT Navigator based on MITRE ATT&amp;CK Framework
 
-Provides the UI navigation for the APT groups in the graphicsl navigation format. All the Techniques are linked to origianl MITRE ATT&CK page.
+Provides the UI navigation for the APT groups in the graphicsl navigation format. All the Techniques are linked to MITRE ATT&CK page.
+https://nallamuthu.github.io/APT_Navigator/
 
 ## APT Covered:
 * G0080 - COBALT
