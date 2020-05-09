@@ -5,6 +5,11 @@
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0080_COBALT/"
         },
 		{
+            "name": "Lazarus (G0032)",
+            "type": "url",
+			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0064_APT33/"
+        },
+		{
             "name": "APT33 (G0064)",
             "type": "url",
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0064_APT33/"
