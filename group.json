@@ -3,22 +3,26 @@
             "name": "COBALT (G0080)",
             "type": "url",
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0080_COBALT/"
-        },{
-            "name": "APT41 (G0096)",
-            "type": "url",
-			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0096_APT41"
-        },{
-            "name": "APT38 (G0082)",
-            "type": "url",
-			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0082_APT38/"
-        },{
-            "name": "APT39 (G0087)",
-            "type": "url",
-			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0087_APT39/"
-        },{
+        },
+		{
             "name": "APT37 (G0067)",
             "type": "url",
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0067_APT37/"
+        },
+		{
+            "name": "APT38 (G0082)",
+            "type": "url",
+			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0082_APT38/"
+        },
+		{
+            "name": "APT39 (G0087)",
+            "type": "url",
+			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0087_APT39/"
+        },
+		{
+            "name": "APT41 (G0096)",
+            "type": "url",
+			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0096_APT41"
         }
     ],
     "name": "APT",
