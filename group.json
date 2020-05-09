@@ -10,6 +10,11 @@
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0032_LAZARUS/"
         },
 		{
+            "name": "APT32 (G0050)",
+            "type": "url",
+			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0050_APT32/"
+        },
+		{
             "name": "APT33 (G0064)",
             "type": "url",
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0064_APT33/"
