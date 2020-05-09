@@ -13,3 +13,7 @@ https://nallamuthu.github.io/APT_Navigator/
 * G0082 - APT38
 * G0087 - APT39
 * G0096 - APT41
+
+## Customization:
+This contains only HTML, CSS, JS, JSON files. This can be closed and locally hosted for other customization
+JSON file(group.json) needs content to be updated accordindly
