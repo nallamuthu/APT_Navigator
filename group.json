@@ -4,6 +4,10 @@
             "type": "url",
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0080_COBALT/"
         },{
+            "name": "APT41 (G0096)",
+            "type": "url",
+			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0096_APT41"
+        },{
             "name": "APT38 (G0082)",
             "type": "url",
 			"url":"https://nallamuthu.github.io/APT_Navigator/APT/G0082_APT38/"
@@ -12,3 +16,4 @@
     "name": "APT",
     "type": "folder"
 }
+
